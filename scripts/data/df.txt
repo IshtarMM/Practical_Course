@@ -1,0 +1,4 @@
+"Training","Pulse","Duration"
+"Strength",100,60
+"Stamina",150,30
+"Other",120,45
